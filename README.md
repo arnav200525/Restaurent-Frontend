@@ -1,5 +1,6 @@
-**🍽️ Restaurant Advertising Website - Frontend Project
-**
+**🍽️ Restaurant Advertising Website - Frontend Project**
+
+
 **🧾 Introduction**
 
 This is a **frontend-only restaurant advertising website** developed purely for **educational purposes**. It presents an engaging, informative, and visually rich user interface for a fictional restaurant. The project focuses on delivering static content to simulate a professional online presence.
